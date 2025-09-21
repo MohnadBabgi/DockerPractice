@@ -5,3 +5,5 @@ Make sure you have Docker installed on your machine.
 3. Type:
    ```bash
    docker compose up --build
+
+4- Go to your browser: http://localhost:8000   
