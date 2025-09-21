@@ -1,0 +1,12 @@
+{
+  "name": "firstdockerapp",
+  "version": "1.0.0",
+  "description": "This app for practicing docker concepts",
+  "license": "ISC",
+  "author": "Mohanad Babgi",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
