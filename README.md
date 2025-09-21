@@ -1,5 +1,4 @@
-**Make sure you have downloaded docker on your machine
-**
+**Make sure you have downloaded docker on your machine**
 1- Clone the repo
 2- cd to the repo
 3- type docker compose up --build
